@@ -75,7 +75,7 @@ class TrianguloRectangulo:
     elif ((self.base != self.altura ) and (self.base != self.calcularHipotenusa())
           and (self.altura != self.calcularHipotenusa())):
       
-      print("Es un triangulo escalento")
+      print("Es un triangulo escaleno")
 
     else:
 
